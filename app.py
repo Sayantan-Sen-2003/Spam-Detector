@@ -223,8 +223,8 @@ navbar_html = """
     }
 </style>
 <div class="navbar">
-    <a href="https://github.com/Sayantan-Sen-2003" target="_self">Github</a>
-    <a href="https://leetcode.com/u/Sayantan_Sen/" target="_self">LeetCode</a>
+    <a href="https://github.com/Sayantan-Sen-2003" target="_blank">Github</a>
+    <a href="https://www.linkedin.com/in/sayantansen05/" target="_blank">Linkedin</a>
 </div>
 """
 
