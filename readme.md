@@ -53,35 +53,11 @@ xgboost,
 ![Streamlit](https://img.shields.io/badge/streamlit-green)
 
 
-## Install the following Dependencies in the local environment
+## Install the libraries in the local environment
 
 ```bash
-  pip install matplotlib==3.8.0
+   pip install -r requirements.txt
   ```
-  ```bash
-pip install nltk==3.8.1
-  ```
-```bash
-pip install numpy==1.26.4
-  ```
-```bash
-pip install pandas==2.2.2
-  ```
-```bash
-pip install scikit_learn==1.4.2
-  ```
-  ```bash
-pip install seaborn==0.13.2
-  ```
-  ```bash
-pip install streamlit==1.34.0
-  ```
-  ```bash
-pip install wordcloud==1.9.3
-  ```
-  ```bash
-pip install xgboost==2.0.3
-```
 
 
 ## Run Command
